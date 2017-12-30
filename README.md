@@ -1,0 +1,1 @@
+I am teaching myself about neural networks.  As an exercise, I am programming simple neural networks using numpy practicing on the ubiquitous MNIST dataset for classifying handwritten digits.
